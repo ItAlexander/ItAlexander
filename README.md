@@ -2,7 +2,7 @@ objectId = @ItAlexander
 
 Name = Alexander Smirnov
 
-sortName = Alex
+shortName = Alex
 
 age = 22
 
