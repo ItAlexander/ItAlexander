@@ -1,7 +1,11 @@
 objectId = @ItAlexander
+
 Name = Alexander Smirnov
+
 sortName = Alex
+
 age = 22
+
 languges = russian, english, c, c++, c#, java, python
 
 <!---
